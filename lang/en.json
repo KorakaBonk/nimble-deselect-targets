@@ -1,0 +1,26 @@
+{
+	"NIMBLE_DESELECT_TARGETS": {
+		"Settings": {
+			"CombatStart": {
+				"Name": "Clear all targets when combat starts",
+				"Hint": "When an encounter begins, every player's targets are cleared."
+			},
+			"CombatEnd": {
+				"Name": "Clear all targets when combat ends",
+				"Hint": "When a started encounter is ended, every player's targets are cleared."
+			},
+			"TurnStart": {
+				"Name": "Clear targets at the start of a turn",
+				"Hint": "When a combatant's turn begins, the targets of the player(s) who own it are cleared. On a turn of a combatant no player owns, the GM's targets are cleared."
+			},
+			"TurnEnd": {
+				"Name": "Clear targets at the end of a turn",
+				"Hint": "When a combatant's turn ends, the targets of the player(s) who own it are cleared. On a turn of a combatant no player owns, the GM's targets are cleared."
+			},
+			"AfterAttack": {
+				"Name": "Clear targets after an attack or spell",
+				"Hint": "When an attack card (a weapon, feature or reaction that deals damage or calls for a save) or a spell card is posted to chat, the targets of the user who posted it are cleared."
+			}
+		}
+	}
+}

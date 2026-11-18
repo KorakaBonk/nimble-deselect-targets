@@ -1,0 +1,26 @@
+{
+	"NIMBLE_DESELECT_TARGETS": {
+		"Settings": {
+			"CombatStart": {
+				"Name": "Alle Ziele beim Kampfbeginn aufheben",
+				"Hint": "Zu Beginn einer Begegnung werden die Ziele aller Spieler aufgehoben."
+			},
+			"CombatEnd": {
+				"Name": "Alle Ziele beim Kampfende aufheben",
+				"Hint": "Wenn eine begonnene Begegnung beendet wird, werden die Ziele aller Spieler aufgehoben."
+			},
+			"TurnStart": {
+				"Name": "Ziele zu Beginn eines Zuges aufheben",
+				"Hint": "Wenn der Zug eines Kampfteilnehmers beginnt, werden die Ziele der Spieler aufgehoben, denen er gehört. Gehört er keinem Spieler, werden die Ziele der Spielleitung aufgehoben."
+			},
+			"TurnEnd": {
+				"Name": "Ziele am Ende eines Zuges aufheben",
+				"Hint": "Wenn der Zug eines Kampfteilnehmers endet, werden die Ziele der Spieler aufgehoben, denen er gehört. Gehört er keinem Spieler, werden die Ziele der Spielleitung aufgehoben."
+			},
+			"AfterAttack": {
+				"Name": "Ziele nach einem Angriff oder Zauber aufheben",
+				"Hint": "Sobald eine Angriffskarte (Waffe, Fähigkeit oder Reaktion mit Schaden oder Rettungswurf) oder eine Zauberkarte im Chat erscheint, werden die Ziele des Benutzers aufgehoben, der sie gepostet hat."
+			}
+		}
+	}
+}
