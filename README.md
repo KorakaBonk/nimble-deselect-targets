@@ -37,4 +37,4 @@ https://github.com/KorakaBonk/nimble-deselect-targets/releases/latest/download/m
 
 ## Releasing
 
-Create a GitHub release with a tag like `v1.0.0`. The release workflow sets that version in `module.json`, builds `module.zip`, and attaches both to the release.
+Push a tag like `v1.0.0` (or publish a GitHub release with that tag). The release workflow sets that version in `module.json`, builds `module.zip`, creates the release if needed, and attaches both files to it.
